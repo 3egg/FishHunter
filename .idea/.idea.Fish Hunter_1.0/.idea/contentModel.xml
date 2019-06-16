@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\lisandan\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\lisandan\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_Fish Hunter_1.0.-1410908707.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Public\Documents\Unity Projects\Fish Hunter_1.0" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets\Scripts" t="Include">
+        <e p="Effect" t="Include">
+          <e p="Ef_WaterWave.cs" t="Include" />
+        </e>
+        <e p="GunFollow.cs" t="Include" />
+      </e>
+      <e p="Fish Hunter_1.0.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
